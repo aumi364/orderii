@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/orderii/static/css/main.1bfc38b1.chunk.css",
+    "main.js": "/orderii/static/js/main.56420cd2.chunk.js",
+    "main.js.map": "/orderii/static/js/main.56420cd2.chunk.js.map",
+    "runtime-main.js": "/orderii/static/js/runtime-main.738de6c0.js",
+    "runtime-main.js.map": "/orderii/static/js/runtime-main.738de6c0.js.map",
+    "static/css/2.150d169a.chunk.css": "/orderii/static/css/2.150d169a.chunk.css",
+    "static/js/2.3238f973.chunk.js": "/orderii/static/js/2.3238f973.chunk.js",
+    "static/js/2.3238f973.chunk.js.map": "/orderii/static/js/2.3238f973.chunk.js.map",
+    "index.html": "/orderii/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/orderii/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1bfc38b1.chunk.css.map": "/orderii/static/css/main.1bfc38b1.chunk.css.map",
+    "static/js/2.3238f973.chunk.js.LICENSE.txt": "/orderii/static/js/2.3238f973.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/orderii/static/media/logo.6ce24c58.svg",
+    "static/media/logo.d639906e.svg": "/orderii/static/media/logo.d639906e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.738de6c0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3238f973.chunk.js",
+    "static/css/main.1bfc38b1.chunk.css",
+    "static/js/main.56420cd2.chunk.js"
+  ]
+}
