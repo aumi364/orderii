@@ -1,0 +1,24 @@
+.cart {
+    color: rgb(5, 5, 5);
+    height: 2rem;
+    width: 2rem;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .2s ease-in;
+    cursor: pointer;
+}
+
+.cart:hover {
+    box-shadow: -1px 1px 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.itemCount {
+    font-size: x-small;
+    color: #0e1b33;
+    transition: all .2s ease-in;
+}

@@ -3,7 +3,7 @@ import style from "./Button.module.css";
 
 const Button = ({ onClick, children }) => {
   return (
-    <button onClick={onClick} className={style.btnEclipse}>
+    <button onClick={onClick} className={`btn ${style.btnEclipse}  `}>
       {children}
     </button>
   );
