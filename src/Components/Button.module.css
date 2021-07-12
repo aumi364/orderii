@@ -1,15 +1,15 @@
-.btnEclipse {
-    background-color: #80e031;
-    color: white;
-    font-weight: 500;
-    border-radius: 25px;
-    transition: all .2s ease-in-out;
-    outline: none;
-    padding: .3rem .5rem;
-    border: none;
-}
+ .btnEclipse {
+     background-color: #80e031;
+     color: white;
+     font-weight: 500;
+     border-radius: 25px;
+     transition: all .2s ease-in-out;
+     outline: none;
+     padding: .3rem .5rem;
+     border: none;
+ }
 
-.btnEclipse:hover {
-    color: white;
-    box-shadow: -1px 1px 10px 2px rgba(0, 0, 0, 0.2);
-}
+ .btnEclipse:hover {
+     color: white;
+     box-shadow: -1px 1px 10px 2px rgba(0, 0, 0, 0.2);
+ }
